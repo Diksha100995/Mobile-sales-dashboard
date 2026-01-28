@@ -17,7 +17,9 @@ This Power BI dashboard analyzes mobile phone sales across:
 - Average Price: 41K
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+
+![Mobile Sales Dashboard](dashboard.png)
+
 
 ## 📈 Insights
 - Apple and Samsung are top-selling brands
