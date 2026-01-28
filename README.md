@@ -20,6 +20,7 @@ This Power BI dashboard analyzes mobile phone sales across:
 ![Mobile Sales Dashboard](dashboard.png)
 
 
+
 ## 📈 Insights
 - Apple and Samsung are top-selling brands
 - UPI is the most used payment method
@@ -33,6 +34,5 @@ This Power BI dashboard analyzes mobile phone sales across:
 - Interactive Slicers
 
 ## 📁 Files
-- `Mobile_Sales_Dashboard.pbix` → Power BI file
 - `dashboard.png` → Dashboard preview image
 
