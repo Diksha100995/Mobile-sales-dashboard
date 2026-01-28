@@ -17,7 +17,6 @@ This Power BI dashboard analyzes mobile phone sales across:
 - Average Price: 41K
 
 ## 📊 Dashboard Preview
-
 ![Mobile Sales Dashboard](dashboard.png)
 
 
